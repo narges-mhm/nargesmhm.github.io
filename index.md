@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Narges Mohammadi
+<img align="left" src="https://user-images.githubusercontent.com/61758751/90970411-a1f9f700-e4d2-11ea-8c53-0e467408f8b9.JPG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="235" />
 
-You can use the [editor on GitHub](https://github.com/narges-mhm/nargesmhm.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Research Assistant
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+University of Rochester
 
-### Markdown
+Email: nmohamm4@ur.rochester.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Address: 633, Computer studies building (CSB), University of Rochester, NY, US
 
-```markdown
-Syntax highlighted code block
+[CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)
 
-# Header 1
-## Header 2
-### Header 3
+[Github profile](https://github.com/narges-mhm)
 
-- Bulleted
-- List
+## Short Bio:
+I am a third-year PhD student in the Signal, Data and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Mujdat Cetin, 2018-Now.
 
-1. Numbered
-2. List
+Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and target detection under supervision of Hamidreza Amindavar.
 
-**Bold** and _Italic_ and `Code` text
+I received my Ms. and BSc. in Electrical Engineering both from Tehran Polytechnique (Amirkabir University of Technology) in Oct. 2015 and Sep. 2013 respectively.
+### Research Interests:
+My research interests are more focused on computational imaging, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence(AI). I am currently working on developing contrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks(like image reconstruction) and local ones (such as super-resolution). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
-[Link](url) and ![Image](src)
-```
+### News and Upcoming Events:
+**(08/2020)** Extremely honored to be the nominated Graduate student in ECE Dept.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**(08/2020)** Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" was accepted and will be presented at IEEE Asilomar 2020 (4-7 Nov)! Preprint coming soon!
 
-### Jekyll Themes
+**(05/2020)** Extremely honored to receive the Grace Hopper Celebration (GHC2020) Scholarship, US
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/narges-mhm/nargesmhm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**(05/2019)** Extremely honored to receive Computing Reseach Association (CRA20219) Scholarship, US
+### Professional Service: 
+Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
+### Teaching Experience: 
+- Random Processes, University of Rochester, Fall 2020
 
-### Support or Contact
+- Detection and Estimation Theories, University of Rochester, Spring 2019
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Microwave and Antenna lab instructor, Tehran Polytechnique, Spring 2014 and Spring 2015
+
+- Physics lab instructor, Tehran Polytechnique, Fall 2014 and Fall 2015
+
+
