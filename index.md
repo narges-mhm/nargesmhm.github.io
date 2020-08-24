@@ -9,7 +9,7 @@
 
   &ensp; **Address:** 633, Computer studies building (CSB), University of Rochester, NY, US
 
-  [CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)
+  &ensp; [CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)
 
 
 ## Short Bio:
