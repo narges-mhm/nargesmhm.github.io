@@ -1,15 +1,15 @@
 # Narges Mohammadi
 <img align="left" src="https://user-images.githubusercontent.com/61758751/90970411-a1f9f700-e4d2-11ea-8c53-0e467408f8b9.JPG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="230" />
 
-Research Assistant
+  Research Assistant
 
-University of Rochester
+  University of Rochester
 
-Email: nmohamm4@ur.rochester.edu
+  Email: nmohamm4@ur.rochester.edu
 
-Address: 633, Computer studies building (CSB), University of Rochester, NY, US
+  Address: 633, Computer studies building (CSB), University of Rochester, NY, US
 
-[CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)
+  [CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)
 
 
 ## Short Bio:
