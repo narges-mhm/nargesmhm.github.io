@@ -7,7 +7,7 @@
 
   &ensp; **Email:** nmohamm4@ur.rochester.edu
 
-  &ensp; **Address:** 633, Computer studies building (CSB), University of &ensp; Rochester, NY, US
+  &ensp; **Address:** 633, Computer studies building (CSB), University of &ensp;&ensp;Rochester, NY, US
 
   &ensp; [CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)
 
