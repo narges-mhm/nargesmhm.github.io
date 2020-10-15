@@ -7,15 +7,15 @@
 
   &ensp; **Email:** nmohamm4@ur.rochester.edu
 
-  &ensp; **Address:** 633, Computer studies building (CSB), University of &ensp;&ensp;Rochester, NY, US
+  &ensp; **Address:** 633, Computer studies building (CSB), University of Rochester, NY, US
 
   &ensp; [CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)
 
 
 ## Short Bio:
-I am a third-year PhD student in the Signal, Data and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Mujdat Cetin, Aug 2018-Now.
+I am a third-year PhD student in the Signal, Data and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Prof. Mujdat Cetin, Aug 2018-Now.
 
-Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and target detection under supervision of Hamidreza Amindavar.
+Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and target detection under supervision of Prof. Hamidreza Amindavar.
 
 I received my Ms. and BSc. in Electrical Engineering both from Tehran Polytechnique (Amirkabir University of Technology) in Oct. 2015 and Sep. 2013 respectively.
 ### Research Interests:
