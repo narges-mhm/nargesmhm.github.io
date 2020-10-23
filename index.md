@@ -29,8 +29,6 @@ My research interests are more focused on computational imaging, medical image r
 
 - **(05/2020)** Extremely honored to receive the Grace Hopper Celebration (GHC2020) Scholarship, US
 
-- **(05/2019)** Extremely honored to receive Computing Reseach Association (CRA20219) Scholarship, US
-
 ### Professional Service: 
 Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
 ### Teaching Experience: 
