@@ -43,6 +43,11 @@ Technical Reviewer in Biomedical signal processing and control Journal of Elsevi
 - Physics lab instructor, Tehran Polytechnique, Fall 2014 and Fall 2015
 
 ### Academic Honors and Rewards:
+
+-Grace Hopper Celebration (GHC2020) Scholarship, US, 2020
+
+-Computing Reseach Association (CRA20219) Scholarship, US, 2019
+
 -	Graduate Scholarship for Master program awarded from Office of Honored Student, Tehran Polytechnique (Amirkabir University of Technology), Iran, 2013
 
 -	Achieved Exceptional Talent Award and Undergraduate Scholarship for TWO simultaneous Bachelor programs by Office of Honored Student, Tehran Polytechnique (Amirkabir University of Technology), Iran, 2012
