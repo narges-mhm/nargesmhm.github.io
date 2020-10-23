@@ -23,7 +23,9 @@ My research interests are more focused on computational imaging, medical image r
 
 ### News and Upcoming Events:
 
-- **(08/2020)** Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" was accepted and will be presented at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint coming soon!
+- **(10/2020)** ICIP 2020 PROGRESS scholar
+
+- **(08/2020)** Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" was accepted and will be presented at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint available at: https://arxiv.org/abs/2010.10729
 
 - **(05/2020)** Extremely honored to receive the Grace Hopper Celebration (GHC2020) Scholarship, US
 
