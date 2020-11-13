@@ -1,5 +1,5 @@
 # Narges Mohammadi
-<img align="left" src="![IMG_2704](https://user-images.githubusercontent.com/61758751/99091001-4a34ce80-259d-11eb-929a-3baa60f89543.JPG) width="250" height="230" />
+<img align="left" src="![IMG_2704](https://user-images.githubusercontent.com/61758751/99091001-4a34ce80-259d-11eb-929a-3baa60f89543.JPG width="250" height="230") />
 
   &ensp; **Research Assistant**
 
