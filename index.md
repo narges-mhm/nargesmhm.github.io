@@ -1,6 +1,6 @@
 # Narges Mohammadi
 <p float="left">
-<img src=![IMG_2704 copy](https://user-images.githubusercontent.com/61758751/99092840-b284af80-259f-11eb-8678-a2561ac94e8c.JPG)/>
+<img src="https://user-images.githubusercontent.com/61758751/99092840-b284af80-259f-11eb-8678-a2561ac94e8c.JPG"/>
 </p>
 
   &ensp; **Research Assistant**
