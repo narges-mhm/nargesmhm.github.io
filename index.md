@@ -25,6 +25,7 @@ I received my Ms. and BSc. in Electrical Engineering both from Tehran Polytechni
 My research interests are more focused on computational imaging, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence(AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
 ### News and Upcoming Events:
+- **(11/2020)** Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program)
 
 - **(10/2020)** ICIP 2020 PROGRESS scholar
 
@@ -44,6 +45,9 @@ Technical Reviewer in Biomedical signal processing and control Journal of Elsevi
 - Physics lab instructor, Tehran Polytechnique, Fall 2014 and Fall 2015
 
 ### Academic Honors and Rewards:
+- Scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program), US, 2020
+
+- ICIP 2020 PROGRESS scholar
 
 - Grace Hopper Celebration (GHC2020) Scholarship, US, 2020
 
