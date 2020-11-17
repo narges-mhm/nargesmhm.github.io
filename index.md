@@ -51,7 +51,7 @@ Technical Reviewer in Biomedical signal processing and control Journal of Elsevi
 
 - Grace Hopper Celebration (GHC2020) Scholarship, US, 2020
 
-- Computing Reseach Association (CRA20219) Scholarship, US, 2019
+- Computing Research Association (CRA20219) Scholarship, US, 2019
 
 -	Graduate Scholarship for Master program awarded from Office of Honored Student, Tehran Polytechnique (Amirkabir University of Technology), Iran, 2013
 
