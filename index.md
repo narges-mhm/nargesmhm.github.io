@@ -25,6 +25,8 @@ I received my Ms. and BSc. in Electrical Engineering both from Tehran Polytechni
 My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence(AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
 ### News and Upcoming Events:
+- **(01/2021)** Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" will be presented at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! Preprint will be available soon!
+
 - **(11/2020)** Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program)
 
 - **(10/2020)** ICIP 2020 PROGRESS scholar
