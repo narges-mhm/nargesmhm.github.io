@@ -10,7 +10,6 @@
   &ensp; **Email:** nmohamm4@ur.rochester.edu
 
   &ensp; **Address:** 633, Computer studies building (CSB), University of Rochester
-  &ensp; , NY, US
 
   <!--- &ensp; [CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)-->
 
@@ -28,17 +27,17 @@ My research interests are more focused on computational imaging and low-level co
 ## News and Upcoming Events:
 - _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and_Play priors" will be presented at IEEE ICASSP2021 (06-09 June)! Preprint will be available soon!
 
-- **(01/2021)** Honored to be selected for participating in Computing Research Association (CRA2021), US
+- _**(01/2021)**_ Honored to be selected for participating in Computing Research Association (CRA2021), US
 
-- **(01/2021)** Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" will be presented at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! Preprint will be available soon!
+- _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" will be presented at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! Preprint will be available soon!
 
-- **(11/2020)** Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program)
+- _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program)
 
-- **(10/2020)** ICIP 2020 PROGRESS scholar
+- _**(10/2020)**_ ICIP 2020 PROGRESS scholar
 
-- **(08/2020)** Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" will be presented at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint available at: https://arxiv.org/abs/2010.10729
+- _**(08/2020)**_ Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" will be presented at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint is available at: [https://arxiv.org/abs/2010.10729](https://arxiv.org/abs/2010.10729)
 
-- **(05/2020)** Extremely honored to receive the Grace Hopper Celebration (GHC2020) Scholarship, US
+- _**(05/2020)**_ Extremely honored to receive the Grace Hopper Celebration (GHC2020) Scholarship, US
 
 ## Professional Service: 
 Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
