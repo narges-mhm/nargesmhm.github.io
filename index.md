@@ -22,12 +22,12 @@ Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Pro
 
 I received my Ms. and BSc. in Electrical Engineering both from Tehran Polytechnique (Amirkabir University of Technology) in Oct. 2015 and Sep. 2013 respectively.
 ## Research Interests:
-My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence(AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
+My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence (AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
 ## News and Upcoming Events:
-- *(02/2021)* Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and_Play priors" will be presented at IEEE ICASSP2021 (06-09 June)! Preprint will be available soon!
+- **(02/2021)** Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and_Play priors" will be presented at IEEE ICASSP2021 (06-09 June)! Preprint will be available soon!
 
-- **(01/2021)** Honored to be selected for participating in Computing Research Association (CRA2021), US
+- --(01/2021)-- Honored to be selected for participating in Computing Research Association (CRA2021), US
 
 - **(01/2021)** Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" will be presented at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! Preprint will be available soon!
 
