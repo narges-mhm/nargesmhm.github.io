@@ -18,9 +18,7 @@
 ## Short Bio:
 I am a third-year PhD student in the Signal, Data and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Prof. Mujdat Cetin, Aug 2018-Now.
 
-Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and target detection under supervision of Prof. Hamidreza Amindavar.
-
-I received my Ms. and BSc. in Electrical Engineering both from Tehran Polytechnique (Amirkabir University of Technology) in Oct. 2015 and Sep. 2013 respectively.
+Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and target detection under supervision of Prof. Hamidreza Amindavar. I received my MSc. and BSc. degrees in Electrical Engineering both from Tehran Polytechnique (Amirkabir University of Technology) in Oct. 2015 and Sep. 2013 respectively. Also I recieved a second MSc. degree from ECE Dep. of University of Rochester in Oct. 2020.
 ## Research Interests:
 My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, and statistical signal processing tools for Artificial Intelligence (AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
@@ -55,7 +53,7 @@ Technical Reviewer in Biomedical signal processing and control Journal of Elsevi
 ## Academic Honors and Rewards:
 - Computing Research Association (CRA2021) member, US, 2021
 
-- Scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program), US, 2020
+- Scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program), University of Rochester, US, 2020
 
 - ICIP 2020 PROGRESS scholar
 
