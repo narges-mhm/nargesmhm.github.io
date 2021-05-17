@@ -27,7 +27,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(05/2021)**_ Our paper entitled "MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer" will be presented at the IEEE Statistical Signal Processing workshop (SSP) 2021 (11-14 Jul)! Preprint will be available soon!
  
-- _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and_Play priors" will be presented and published at IEEE ICASSP2021 (06-09 June)! Preprint is availbale at: [https://arxiv.org/abs/2103.14096](https://arxiv.org/abs/2103.14096)
+- _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and_Play priors" will be presented and published at IEEE ICASSP2021 (06-09 June)! This article is availbale at: [https://ieeexplore.ieee.org/document/9413652](https://ieeexplore.ieee.org/document/9413652)
 
 - _**(01/2021)**_ Honored to be selected for participating in Computing Research Association (CRA2021), US
 
