@@ -11,7 +11,7 @@
 
   &ensp; **Address:** 633, Computer studies building (CSB), University of Rochester
   
-  &ensp; **Google scholar:** [Google scholar](https://scholar.google.com/citations?user=LFgb6E0AAAAJ&hl=en)
+  &ensp; [Google scholar](https://scholar.google.com/citations?user=LFgb6E0AAAAJ&hl=en)
   
 
   <!--- &ensp; [CV](https://rochester.box.com/s/chw7gz9sx5xpwiuhqwv0hvcu4z30nte7)-->
