@@ -26,15 +26,17 @@ Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Pro
 My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, and statistical signal processing tools for Artificial Intelligence (AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
 ## News and Upcoming Events:
-- _**(05/2021)**_ Our paper entitled "Regularization by adversarial learning for ultrasound elasticity imaging" will be presented at EUSIPCO2021 (23-27 Aug)! Preprint will be available soon!
+- _**(06/2021)**_ ICASSP 2021 PROGRESS scholar
 
-- _**(05/2021)**_ Our paper entitled "MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer" will be presented at the IEEE Statistical Signal Processing workshop (SSP) 2021 (11-14 Jul)! Preprint will be available soon!
+- _**(05/2021)**_ Our paper entitled "Regularization by adversarial learning for ultrasound elasticity imaging" will be presented at EUSIPCO2021 (23-27 Aug)! Preprint is available at: [https://arxiv.org/abs/2106.00167](https://arxiv.org/abs/2106.00167)
+
+- _**(05/2021)**_ Our paper entitled "MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer" will be presented at the IEEE Statistical Signal Processing workshop (SSP) 2021 (11-14 Jul)! Preprint is available at: [https://arxiv.org/pdf/2105.12922.pdf](https://arxiv.org/pdf/2105.12922.pdf)
  
 - _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors" will be presented and published at IEEE ICASSP2021 (06-09 June)! This article is availbale at: [https://ieeexplore.ieee.org/document/9413652](https://ieeexplore.ieee.org/document/9413652)
 
 - _**(01/2021)**_ Honored to be selected for participating in Computing Research Association (CRA2021), US
 
-- _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" presented and published at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! Preprint is available at:[https://arxiv.org/abs/2103.14632](https://arxiv.org/abs/2103.14632)
+- _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" presented and published at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! This article is available at:[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)
 
 - _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program)
 
