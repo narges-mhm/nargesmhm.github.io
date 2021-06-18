@@ -54,13 +54,11 @@ Technical Reviewer in Biomedical signal processing and control Journal of Elsevi
 - Physics lab instructor, Tehran Polytechnique, Fall 2014 and Fall 2015
 
 ## Academic Honors and Rewards:
-- ICASSP 2021 PROGRESS scholar
+- PROGRESS scholar in ICASSP 2021, ICIP 2020 
 
 - Computing Research Association (CRA2021) scholarship, US, 2021
 
 - Scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program), University of Rochester, US, 2020
-
-- ICIP 2020 PROGRESS scholar
 
 - Grace Hopper Celebration (GHC2020) Scholarship, US, 2020
 
