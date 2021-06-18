@@ -26,7 +26,7 @@ My research interests are more focused on computational imaging and low-level co
 
 ## News and Upcoming Events:
 
-- _**(05/2021)**_ Our paper entitled "Combining physics-based modeling and deep learning for ultrasound elastography" will be presented at IUS2021 (11-16 Sep.)! Preprint will be available soon!
+- _**(06/2021)**_ Our paper entitled "Combining physics-based modeling and deep learning for ultrasound elastography" will be presented at IUS2021 (11-16 Sep.)! Preprint will be available soon!
 
 - _**(05/2021)**_ Our paper entitled "Regularization by adversarial learning for ultrasound elasticity imaging" will be presented at EUSIPCO2021 (23-27 Aug)! Preprint is available at: [https://arxiv.org/abs/2106.00167](https://arxiv.org/abs/2106.00167)
 
