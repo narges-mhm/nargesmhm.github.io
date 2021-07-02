@@ -54,6 +54,9 @@ Technical Reviewer in Biomedical signal processing and control Journal of Elsevi
 - Physics lab instructor, Tehran Polytechnique, Fall 2014 and Fall 2015
 
 ## Academic Honors and Rewards:
+
+- Grace Hopper Celebration (GHC2021) Scholarship, US, 2021
+
 - PROGRESS scholar in ICASSP 2021, ICIP 2020 
 
 - Computing Research Association (CRA2021) scholarship, US, 2021
