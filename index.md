@@ -38,7 +38,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program)
 
-- _**(08/2020)**_ Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" presented and published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint is available at: [https://arxiv.org/abs/2010.10729](https://arxiv.org/abs/2010.10729)
+- _**(08/2020)**_ Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" presented and published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint is available at: [https://ieeexplore.ieee.org/abstract/document/9443450](https://ieeexplore.ieee.org/abstract/document/9443450)
 
 ## Professional Service: 
 Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
