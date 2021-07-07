@@ -9,7 +9,7 @@
   &ensp; **Email:** nmohamm4@ur.rochester.edu
 
   &ensp; **Address:** 633, Computer studies building (CSB), University of Rochester, 
-  Rochester, NY, US
+  &ensp; Rochester, NY, US
   
   &ensp; [Google scholar](https://scholar.google.com/citations?user=LFgb6E0AAAAJ&hl=en)
   
