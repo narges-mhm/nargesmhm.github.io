@@ -1,6 +1,6 @@
 # Narges Mohammadi
 
-<img align="left" src="https://user-images.githubusercontent.com/61758751/124786846-10db1580-df16-11eb-838e-88df72cad1a2.jpg" width="274" height="311"/>
+<img align="left" src="https://user-images.githubusercontent.com/61758751/125204136-b0b3de80-e249-11eb-83db-64b760e65928.jpg" width="273" height="320"/>
 
   &ensp; **Research Assistant**
 
