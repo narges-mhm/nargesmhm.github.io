@@ -45,7 +45,7 @@ My research interests are more focused on computational imaging and low-level co
 - Program committee member of [LCI at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
 
 - Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
--
+
 ## Teaching Experience: 
 - Network Science Analytics, University of Rochester, Spring 2021
 
