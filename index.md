@@ -42,9 +42,10 @@ My research interests are more focused on computational imaging and low-level co
 - _**(08/2020)**_ Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" presented and published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint is available at: [https://ieeexplore.ieee.org/abstract/document/9443450](https://ieeexplore.ieee.org/abstract/document/9443450)
 
 ## Professional Service: 
-- Programm committee member of [LCI at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
+- Program committee member of [LCI at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
 
 - Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
+-
 ## Teaching Experience: 
 - Network Science Analytics, University of Rochester, Spring 2021
 
