@@ -48,7 +48,7 @@ My research interests are more focused on computational imaging and low-level co
 
 ## Teaching Experience: 
 - Random Processes, University of Rochester, Fall 2021 and Fall 2020
-- 
+
 - Network Science Analytics, University of Rochester, Spring 2021
 
 - Detection and Estimation Theories, University of Rochester, Spring 2019
