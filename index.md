@@ -61,7 +61,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - Grace Hopper Celebration (GHC2021) Scholarship, US, 2021
 
-- PROGRESS scholar in ICASSP 2021, ICIP 2020 
+- PROGRESS scholar in ICIP 2020, ICASSP 2021
 
 - Computing Research Association (CRA2021) scholarship, US, 2021
 
