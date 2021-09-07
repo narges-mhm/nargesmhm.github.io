@@ -47,7 +47,7 @@ My research interests are more focused on computational imaging and low-level co
 - Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
 
 ## Teaching Experience: 
-- Random Processes, University of Rochester, Fall 2021 and Fall 2020
+- Random Processes, University of Rochester, Fall 2020 and Fall 2021
 
 - Network Science Analytics, University of Rochester, Spring 2021
 
