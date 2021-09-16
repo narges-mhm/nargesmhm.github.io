@@ -26,6 +26,7 @@ Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Pro
 My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, and statistical signal processing tools for Artificial Intelligence (AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
 ## News and Upcoming Events:
+- _**(09/2021)**_ Extremely honored to be accepted in 2021B class of Google’s CS Research Mentorship Program (CSRMP), US, 2021
 - _**(07/2021)**_ Extremely honored to be awarded the Grace Hopper Celebration (GHC2021) student Scholarship, US, 2021
 - _**(06/2021)**_ Our paper entitled "Combining physics-based modeling and deep learning for ultrasound elastography" will be presented at IEEE IUS2021 (11-16 Sep.)! Preprint is available at: [https://arxiv.org/abs/2107.13120](https://arxiv.org/abs/2107.13120)
 
