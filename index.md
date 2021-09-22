@@ -19,7 +19,7 @@
 
 <br/><br/><br/><br/><br/><br/>
 ## Short Bio:
-I am a forth-year PhD student in the Signal, Data and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Prof. Mujdat Cetin, Aug 2018-Now. I am also a PhD scholar in AR/VR NRT (NSF Research Traineeship) program, Aug 2020-Now.
+I am a forth-year PhD student in the Signal, Data and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Prof. Mujdat Cetin, Aug 2018-Now. I am also a PhD scholar in AR/VR NRT (NSF Research Traineeship) program, Aug 2020-Now. [https://www.rochester.edu/augmented-virtual-reality/about/students/index.html](AR/VR NRT)
 
 Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and target detection under supervision of Prof. Hamidreza Amindavar. I received my MSc. and BSc. degrees in Electrical Engineering both from Tehran Polytechnique in Oct. 2015 and Sep. 2013 respectively. Also I recieved a second MSc. degree from ECE Dep. of University of Rochester in Oct. 2020.
 ## Research Interests:
@@ -38,7 +38,7 @@ My research interests are more focused on computational imaging and low-level co
  
 - _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors" is published at IEEE ICASSP2021 (06-09 June)! This article is availbale at: [https://ieeexplore.ieee.org/document/9413652](https://ieeexplore.ieee.org/document/9413652)
 
-- _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" is published at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! This article is available at:[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)
+- _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" is published at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! This article is available at: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)
 
 - _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program) [https://www.rochester.edu/augmented-virtual-reality/about/students/index.html](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html)
 
