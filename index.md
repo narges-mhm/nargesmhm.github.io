@@ -40,7 +40,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" is published at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! This article is available at:[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)
 
-- _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program)
+- _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program) [https://www.rochester.edu/augmented-virtual-reality/about/students/index.html](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html)
 
 - _**(08/2020)**_ Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" presented and published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint is available at: [https://ieeexplore.ieee.org/abstract/document/9443450](https://ieeexplore.ieee.org/abstract/document/9443450)
 
