@@ -30,19 +30,19 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(07/2021)**_ Extremely honored to be awarded the Grace Hopper Celebration (GHC2021) student Scholarship, US, 2021
 
-- _**(06/2021)**_ Our paper entitled "Combining physics-based modeling and deep learning for ultrasound elastography" will be presented at IEEE IUS2021 (11-16 Sep.)! Preprint is available at: [https://arxiv.org/abs/2107.13120](https://arxiv.org/abs/2107.13120)
+- _**(06/2021)**_ Our paper entitled "Combining physics-based modeling and deep learning for ultrasound elastography" is published at IEEE IUS2021! This article is available at: [https://ieeexplore.ieee.org/abstract/document/9593781](https://ieeexplore.ieee.org/abstract/document/9593781)
 
-- _**(05/2021)**_ Our paper entitled "Regularization by adversarial learning for ultrasound elasticity imaging" will be presented at EUSIPCO2021 (23-27 Aug)! Preprint is available at: [https://arxiv.org/abs/2106.00167](https://arxiv.org/abs/2106.00167)
+- _**(05/2021)**_ Our paper entitled "Regularization by adversarial learning for ultrasound elasticity imaging" is be presented at EUSIPCO2021 ! Preprint is available at: [https://arxiv.org/abs/2106.00167](https://arxiv.org/abs/2106.00167)
 
-- _**(05/2021)**_ Our paper entitled "MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer" will be presented at the IEEE Statistical Signal Processing workshop (SSP) 2021 (11-14 Jul)! Preprint is available at: [https://arxiv.org/pdf/2105.12922.pdf](https://arxiv.org/pdf/2105.12922.pdf)
+- _**(05/2021)**_ Our paper entitled "MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer" is be presented at the IEEE Statistical Signal Processing workshop (SSP) 2021! Preprint is available at: [https://arxiv.org/pdf/2105.12922.pdf](https://arxiv.org/pdf/2105.12922.pdf)
  
-- _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors" is published at IEEE ICASSP2021 (06-09 June)! This article is availbale at: [https://ieeexplore.ieee.org/document/9413652](https://ieeexplore.ieee.org/document/9413652)
+- _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors" is published at IEEE ICASSP2021 ! This article is availbale at: [https://ieeexplore.ieee.org/document/9413652](https://ieeexplore.ieee.org/document/9413652)
 
-- _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" is published at IEEE International Symposium on Biomedical Imaging (ISBI) (13-16 Apr)! This article is available at: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)
+- _**(01/2021)**_ Our paper entitled "Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods" is published at IEEE International Symposium on Biomedical Imaging (ISBI) ! This article is available at: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)
 
 - _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR (NSF Research Traineeship (NRT) program) [https://www.rochester.edu/augmented-virtual-reality/about/students/index.html](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html)
 
-- _**(08/2020)**_ Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" presented and published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020 (1-4 Nov)! Preprint is available at: [https://ieeexplore.ieee.org/abstract/document/9443450](https://ieeexplore.ieee.org/abstract/document/9443450)
+- _**(08/2020)**_ Our paper entitled "A statistical framework for model-based inverse problems in ultrasound elastography" presented and published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020! This article is available at: [https://ieeexplore.ieee.org/abstract/document/9443450](https://ieeexplore.ieee.org/abstract/document/9443450)
 
 ## Professional Service: 
 - Program committee member of [LCI at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
