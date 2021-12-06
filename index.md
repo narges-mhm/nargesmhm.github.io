@@ -60,7 +60,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - Physics lab instructor, Tehran Polytechnique, Fall 2014 and Fall 2015
 
-## Academic Honors and Rewards:
+## Academic Honors and Awards:
 
 - 2021B class of Google’s CS Research Mentorship Program (CSRMP) scholar, US, 2021
 
