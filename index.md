@@ -26,6 +26,8 @@ Prior to that I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Pro
 My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, and statistical signal processing tools for Artificial Intelligence (AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solves challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, and etc.). Computer imagery problems consists of a broad range of imaging application while I am concentrated on medical imaging such as MRE and Ultrasound elasticity these days. 
 
 ## News and Upcoming Events:
+- _**(01/2022)**_ Extremely excited to be selected as a scholar in CRA-W (computing research association for women) and meet you at New Orleans LA, US, 2022
+
 - _**(09/2021)**_ Extremely honored to be selected as a scholar in 2021B class of Google’s CS Research Mentorship Program (CSRMP), US, 2021
 
 - _**(07/2021)**_ Extremely honored to be awarded the Grace Hopper Celebration (GHC2021) student Scholarship, US, 2021
@@ -50,17 +52,18 @@ My research interests are more focused on computational imaging and low-level co
 - Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
 
 ## Teaching Experience: 
+- Detection and Estimation Theories, University of Rochester, Spring 2019, Spring 2022
+
 - Random Processes, University of Rochester, Fall 2020 and Fall 2021
 
 - Network Science Analytics, University of Rochester, Spring 2021
-
-- Detection and Estimation Theories, University of Rochester, Spring 2019
 
 - Microwave and Antenna lab instructor, Tehran Polytechnique, Spring 2014 and Spring 2015
 
 - Physics lab instructor, Tehran Polytechnique, Fall 2014 and Fall 2015
 
 ## Academic Honors and Awards:
+- Computing Research Association (CRA2022) Scholarship, US, 2022
 
 - 2021B class of Google’s CS Research Mentorship Program (CSRMP) scholar, US, 2021
 
