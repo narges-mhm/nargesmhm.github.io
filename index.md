@@ -34,9 +34,9 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(06/2021)**_ Our paper entitled "Combining physics-based modeling and deep learning for ultrasound elastography" is published at IEEE IUS2021! This article is available at: [https://ieeexplore.ieee.org/abstract/document/9593781](https://ieeexplore.ieee.org/abstract/document/9593781)
 
-- _**(05/2021)**_ Our paper entitled "Regularization by adversarial learning for ultrasound elasticity imaging" is be presented at EUSIPCO2021 ! Preprint is available at: [https://arxiv.org/abs/2106.00167](https://arxiv.org/abs/2106.00167)
+- _**(05/2021)**_ Our paper entitled "Regularization by adversarial learning for ultrasound elasticity imaging" is published at EUSIPCO2021 ! This article is available at: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9615997](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9615997)
 
-- _**(05/2021)**_ Our paper entitled "MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer" is be presented at the IEEE Statistical Signal Processing workshop (SSP) 2021! Preprint is available at: [https://arxiv.org/pdf/2105.12922.pdf](https://arxiv.org/pdf/2105.12922.pdf)
+- _**(05/2021)**_ Our paper entitled "MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer" is published at the IEEE Statistical Signal Processing workshop (SSP) 2021! This article is available at: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9513799](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9513799)
  
 - _**(02/2021)**_ Our paper entitled "Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors" is published at IEEE ICASSP2021 ! This article is availbale at: [https://ieeexplore.ieee.org/document/9413652](https://ieeexplore.ieee.org/document/9413652)
 
