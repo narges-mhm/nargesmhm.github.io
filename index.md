@@ -44,7 +44,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR ([NSF Research Traineeship (NRT) program](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html))
 
-- _**(08/2020)**_ Our paper entitled "[A statistical framework for model-based inverse problems in ultrasound elastography](https://ieeexplore.ieee.org/abstract/document/9443450)" presented and published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020! 
+- _**(08/2020)**_ Our paper entitled "[A statistical framework for model-based inverse problems in ultrasound elastography](https://ieeexplore.ieee.org/abstract/document/9443450)" is published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020! 
 
 ## Professional Service: 
 - Program committee member of [LCI at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
