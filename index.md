@@ -28,7 +28,7 @@ My research interests are more focused on computational imaging and low-level co
 ## News and Upcoming Events:
 - _**(01/2022)**_ Extremely excited to be selected as a scholar in CRA-W (computing research association for women) and meet you at New Orleans LA, US, Apr. 21-23, 2022
 
-- _**(09/2021)**_ Extremely honored to be selected as a scholar in 2021B class of Google’s CS Research Mentorship Program (CSRMP), US, 2021
+- _**(09/2021)**_ Extremely honored to be selected as a scholar in 2021B class of Google’s CS Research Mentorship Program ([CSRMP](https://research.google/outreach/csrmp/recipients/)), US, 2021
 
 - _**(07/2021)**_ Extremely honored to be awarded the Grace Hopper Celebration (GHC2021) student Scholarship, US, 2021
 
