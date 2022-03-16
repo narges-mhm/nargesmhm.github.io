@@ -30,7 +30,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(09/2021)**_ Extremely honored to be selected as a scholar in 2021B class of Google’s CS Research Mentorship Program ([CSRMP](https://research.google/outreach/csrmp/recipients/)), US, 2021
 
-- _**(07/2021)**_ Extremely honored to be awarded the Grace Hopper Celebration (GHC2021) student Scholarship, US, 2021
+- _**(07/2021)**_ Extremely excited to be awarded the Grace Hopper Celebration (GHC2021) student Scholarship, US, 2021
 
 - _**(06/2021)**_ Our paper entitled "Combining physics-based modeling and deep learning for ultrasound elastography" is published at IEEE IUS2021! This article is available at: [https://ieeexplore.ieee.org/abstract/document/9593781](https://ieeexplore.ieee.org/abstract/document/9593781)
 
