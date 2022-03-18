@@ -34,13 +34,13 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(06/2021)**_ Our paper entitled "[Combining physics-based modeling and deep learning for ultrasound elastography](https://ieeexplore.ieee.org/abstract/document/9593781)" is published at IEEE IUS2021! 
 
-- _**(05/2021)**_ Our paper entitled "[Regularization by adversarial learning for ultrasound elasticity imaging](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9615997)" is published at EUSIPCO2021 ! 
+- _**(05/2021)**_ Our paper entitled "[Regularization by adversarial learning for ultrasound elasticity imaging](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9615997)" is published at EUSIPCO2021! 
 
 - _**(05/2021)**_ Our paper entitled "[MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9513799)" is published at the IEEE Statistical Signal Processing workshop (SSP) 2021! 
  
-- _**(02/2021)**_ Our paper entitled "[Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors](https://ieeexplore.ieee.org/document/9413652)" is published at IEEE ICASSP2021 !
+- _**(02/2021)**_ Our paper entitled "[Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors](https://ieeexplore.ieee.org/document/9413652)" is published at IEEE ICASSP2021!
 
-- _**(01/2021)**_ Our paper entitled "[Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)" is published at IEEE International Symposium on Biomedical Imaging (ISBI) ! 
+- _**(01/2021)**_ Our paper entitled "[Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)" is published at IEEE International Symposium on Biomedical Imaging (ISBI)! 
 
 - _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR ([NSF Research Traineeship (NRT) program](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html))
 
