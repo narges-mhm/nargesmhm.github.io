@@ -49,6 +49,8 @@ My research interests are more focused on computational imaging and low-level co
 ## Professional Service: 
 - Program committee member of [LCI at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
 
+- [Frameless Lab symposium](https://www.rit.edu/framelesslabs/symposium-2021) organizer team 
+
 - Technical Reviewer in Biomedical signal processing and control Journal of Elsevier (Nov 2019-Now)
 
 ## Teaching Experience: 
