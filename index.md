@@ -26,7 +26,7 @@ Prior to that, I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Pr
 My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, and statistical signal processing tools for Artificial Intelligence (AI). I am currently working on developing constrained optimization algorithms composed of AI and physical models that solve challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, etc.). Computer imagery problems consist of a broad range of imaging applications while I am concentrated on medical imaging such as MRE and Ultrasound elasticity imaging these days. 
 
 ## News and Upcoming Events:
-- _**(07/2022)**_ Attending 2022 Global PhD Fellowship Summit, July 26-27, 2022
+- _**(07/2022)**_ Attending Google’s 2022 Global PhD Fellowship Summit, July 26-27, 2022
 
 - _**(01/2022)**_ Extremely excited to be selected as a scholar in CRA-W (computing research association for women) and meet you at New Orleans LA, US, Apr. 21-23, 2022
 
