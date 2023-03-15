@@ -62,7 +62,7 @@ My research interests are more focused on computational imaging and low-level co
 
 - Random Processes, University of Rochester, Fall 2020 and Fall 2021
 
-- Network Science Analytics, University of Rochester, Spring 2021
+- Network Science Analytics, University of Rochester, Spring 2021 and Spring 2023
 
 - Microwave and Antenna lab instructor, Tehran Polytechnique, Spring 2014 and Spring 2015
 
