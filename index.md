@@ -51,7 +51,7 @@ My research interests are more focused on computational imaging and low-level co
 - _**(08/2020)**_ Our paper entitled "[A statistical framework for model-based inverse problems in ultrasound elastography](https://ieeexplore.ieee.org/abstract/document/9443450)" is published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020! 
 
 ## Professional Service: 
-- Program committee member of [LCI at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
+- Program committee member of Learning for Computational Imaging [(LCI) at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
 
 - [Frameless Lab symposium](https://www.rit.edu/framelesslabs/symposium-2021) organizer team 
 
