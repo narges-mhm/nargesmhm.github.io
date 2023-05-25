@@ -26,7 +26,9 @@ Prior to that, I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Pr
 My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence (AI), digital camera imaging (ISP and graphics) and visual computing for computer architects. I am currently working on developing constrained optimization algorithms composed of AI and physical models that solve challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, etc.). Computer imagery problems consist of a broad range of imaging applications while I am concentrated on medical imaging such as MRE and Ultrasound elasticity imaging these days. 
 
 ## News and Upcoming Events:
-- _**(01/2023)**_ Our paper entitled "[Ultrasound elasticity reconstruction with inaccurate forward model using integrated data-driven correction of data-fidelity gradient](https://library.imaging.org/ei/articles/35/14/COIMG-171)" is published at Electronic Imaging 2023! 
+- _**(01/2023)**_ Our paper entitled "[Ultrasound elasticity reconstruction with inaccurate forward model using integrated data-driven correction of data-fidelity gradient](https://library.imaging.org/ei/articles/35/14/COIMG-171)" is published at Electronic Imaging, 2023! 
+
+- _**(01/2023)**_ Our paper entitled "[Deep-learning based insitu ultrasound thermometry for thermal ablation monitoring](https://pubs.aip.org/asa/jasa/article/152/4/A114/2839754/Deep-learning-based-insitu-ultrasound-thermometry)" is published at The Journal of the Acoustical Society of America, 2022! 
 
 - _**(08/2022)**_ Research intern at Philips working on AI-based image super-resolution, Cambridge, MA, US
 
