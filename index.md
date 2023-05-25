@@ -28,7 +28,7 @@ My research interests are more focused on computational imaging and low-level co
 ## News and Upcoming Events:
 - _**(01/2023)**_ Our paper entitled "[Ultrasound elasticity reconstruction with inaccurate forward model using integrated data-driven correction of data-fidelity gradient](https://library.imaging.org/ei/articles/35/14/COIMG-171)" is published at Electronic Imaging, 2023! 
 
-- _**(01/2023)**_ Our paper entitled "[Deep-learning based insitu ultrasound thermometry for thermal ablation monitoring](https://pubs.aip.org/asa/jasa/article/152/4/A114/2839754/Deep-learning-based-insitu-ultrasound-thermometry)" is published at The Journal of the Acoustical Society of America, 2022! 
+- _**(10/2022)**_ Our paper entitled "[Deep-learning based insitu ultrasound thermometry for thermal ablation monitoring](https://pubs.aip.org/asa/jasa/article/152/4/A114/2839754/Deep-learning-based-insitu-ultrasound-thermometry)" is published at The Journal of the Acoustical Society of America, 2022! 
 
 - _**(08/2022)**_ Research intern at Philips working on AI-based image super-resolution, Cambridge, MA, US
 
