@@ -8,7 +8,7 @@
 
   &ensp; **Email:** nmohamm4@ur.rochester.edu
 
-  &ensp; **Address:** 633, Computer studies building (CSB), University of Rochester, 
+  &ensp; **Address:** 633, Computer Studies Building (CSB), University of Rochester, 
   &ensp; &nbsp; Rochester, NY, US
   
   &ensp; [Google scholar](https://scholar.google.com/citations?user=LFgb6E0AAAAJ&hl=en)
@@ -19,11 +19,11 @@
 
 <br/><br/><br/><br/><br/><br/>
 ## Short Bio:
-I am a fifth-year Ph.D. student in the Signal, Data and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Prof. Mujdat Cetin, Aug 2018-Now. I am also a Ph.D. scholar in [AR/VR NRT](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html) (NSF Research Traineeship) program, Aug 2020-Now. 
+I am a Ph.D. student in the Signal, Data, and Imaging Science (SDIS) Lab, Electrical and Computer Engineering Dept., University of Rochester, working under the supervision of Prof. Mujdat Cetin, Aug 2018-Now. I am also a Ph.D. scholar in [AR/VR NRT](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html) (NSF Research Traineeship) program, Aug 2020-Now. 
 
-Prior to that, I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and signal reconstruction under supervision of Prof. Hamidreza Amindavar. I received my MSc. and BSc. degrees in Electrical Engineering both from Tehran Polytechnique in Oct. 2015 and Sep. 2013 respectively. Also I recieved a second MSc. degree from ECE Dep. of University of Rochester in Oct. 2020.
+Before that, I was a researcher (Sep 2013-Sep 2016) with the Digital Signal Processing Lab, Electrical Engineering Dept., Tehran Polytechnique (Amirkabir University of Technology) working on Compressive sensing applications on biomedical signals and signal reconstruction under the supervision of Prof. Hamidreza Amindavar. I received my MSc. and BSc. degrees in Electrical Engineering from Tehran Polytechnique in Oct. 2015 and Sep. 2013 respectively. Also, I received a second MSc. degree from ECE Dep. of the University of Rochester in Oct. 2020.
 ## Research Interests:
-My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence (AI), digital camera imaging (ISP and graphics) and visual computing for computer architects. I am currently working on developing constrained optimization algorithms composed of AI and physical models that solve challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, etc.). Computer imagery problems consist of a broad range of imaging applications while I am concentrated on medical imaging such as MRE and Ultrasound elasticity imaging these days. 
+My research interests are more focused on computational imaging and low-level computer vision, medical image reconstruction, optimization and machine learning, statistical signal processing tools for Artificial Intelligence (AI), digital camera imaging (ISP and graphics), and visual computing for computer architects. I am currently developing constrained optimization algorithms composed of AI and physical models that solve challenging inverse imaging problems including global image restoration tasks (like image reconstruction) and local ones (such as image deconvolution, super-resolution, deblurring, etc.). Computer imagery problems consist of a broad range of imaging applications while I am concentrating on medical imaging such as MRE and Ultrasound elasticity imaging these days. 
 
 ## News and Upcoming Events:
 - _**(01/2023)**_ Our paper entitled "[Ultrasound elasticity reconstruction with inaccurate forward model using integrated data-driven correction of data-fidelity gradient](https://library.imaging.org/ei/articles/35/14/COIMG-171)" is published at Electronic Imaging, 2023! 
@@ -34,9 +34,9 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(07/2022)**_ Attending Google’s 2022 Global PhD Fellowship Summit, July 26-27, 2022
 
-- _**(01/2022)**_ Extremely excited to be selected as a scholar in CRA-W (computing research association for women) and meet you at New Orleans LA, US, Apr. 21-23, 2022
+- _**(01/2022)**_ Extremely excited to be selected as a scholar in CRA-W (Computing Research Association for Women) and meet you in New Orleans LA, US, Apr. 21-23, 2022
 
-- _**(09/2021)**_ Extremely honored to be selected as a scholar in 2021B class of Google’s CS Research Mentorship Program ([CSRMP](https://research.google/outreach/csrmp/recipients/)), US, 2021
+- _**(09/2021)**_ Extremely honored to be selected as a scholar in the 2021B class of Google’s CS Research Mentorship Program ([CSRMP](https://research.google/outreach/csrmp/recipients/)), US, 2021
 
 - _**(07/2021)**_ Extremely excited to be awarded the Grace Hopper Celebration (GHC2021) student Scholarship, US, 2021
 
@@ -44,15 +44,15 @@ My research interests are more focused on computational imaging and low-level co
 
 - _**(05/2021)**_ Our paper entitled "[Regularization by adversarial learning for ultrasound elasticity imaging](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9615997)" is published at EUSIPCO2021! 
 
-- _**(05/2021)**_ Our paper entitled "[MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9513799)" is published at the IEEE Statistical Signal Processing workshop (SSP) 2021! 
+- _**(05/2021)**_ Our paper entitled "[MR elasticity reconstruction using statistical physical modeling and explicit data-driven denoising regularizer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9513799)" is published at the IEEE Statistical Signal Processing Workshop (SSP) 2021! 
  
 - _**(02/2021)**_ Our paper entitled "[Ultrasound elasticity imaging using physics-based models and learning-based Plug-and-Play priors](https://ieeexplore.ieee.org/document/9413652)" is published at IEEE ICASSP2021!
 
 - _**(01/2021)**_ Our paper entitled "[Finite element reconstruction of stiffness images in MR elastography using statistical physical forward modeling and proximal optimization methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9433873)" is published at IEEE International Symposium on Biomedical Imaging (ISBI)! 
 
-- _**(11/2020)**_ Extremely honored to be selected as a scholar in PhD training program on AR/VR ([NSF Research Traineeship (NRT) program](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html))
+- _**(11/2020)**_ Extremely honored to be selected as a scholar in the Ph.D. training program on AR/VR ([NSF Research Traineeship (NRT) program](https://www.rochester.edu/augmented-virtual-reality/about/students/index.html))
 
-- _**(08/2020)**_ Our paper entitled "[A statistical framework for model-based inverse problems in ultrasound elastography](https://ieeexplore.ieee.org/abstract/document/9443450)" is published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020! 
+- _**(08/2020)**_ Our paper entitled "[A statistical framework for model-based inverse problems in ultrasound elastography](https://ieeexplore.ieee.org/abstract/document/9443450)" was published at IEEE Asilomar Conference on Signals, Systems, and Computers 2020! 
 
 ## Professional Service: 
 - Program committee member of Learning for Computational Imaging [(LCI) at ICCV 2021](https://sites.google.com/view/lci-iccv2021/program-committee)
@@ -93,5 +93,5 @@ My research interests are more focused on computational imaging and low-level co
 
 -	Achieved Exceptional Talent Award and Undergraduate Scholarship for TWO simultaneous Bachelor programs by Office of Honored Student, Tehran Polytechnique (Amirkabir University of Technology), Iran, 2012
 
--	Ranked in top 0.1% of all participants of Iranian nation-wide university entrance exam, Iran, 2009
+-	Ranked in the top 0.1% of all participants of the Iranian nation-wide university entrance exam, Iran, 2009
 
